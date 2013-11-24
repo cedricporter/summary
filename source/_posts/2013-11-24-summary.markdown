@@ -1,0 +1,10 @@
+---
+layout: post
+title: "每周总结[2013-11-18 - 2013-11-24]"
+date: 2013-11-24 22:31:51 +0800
+comments: true
+categories:
+---
+
+# 图
+{% img /imgs/snapshot2_20131124_223355_11802syP.png %}
