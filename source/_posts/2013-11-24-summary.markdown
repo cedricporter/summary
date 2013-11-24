@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "每周总结[2013-11-18 - 2013-11-24]"
-date: 2013-11-24 22:31:51 +0800
+date: "2013-11-24 22:31:51 +0800"
 comments: true
-categories:
+categories: null
+published: true
 ---
 
 # 图
 {% img /imgs/snapshot2_20131124_223355_11802syP.png %}
+
+# 总结
+本周的个人项目的时间有所增加，这个还是不错的，说明还是有控制。娱乐时间相比上周少了6个小时。
