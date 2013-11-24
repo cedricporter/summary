@@ -7,4 +7,4 @@ install:
 	git submodule update ; \
 	bundle install && \
 	rake install && \
-	rake install["oct2"] 
+	rake install[oct2-orange]  
