@@ -6,5 +6,6 @@ install:
 	git submodule init ; \
 	git submodule update ; \
 	bundle install && \
-	rake install && \
-	rake install[oct2-orange]  
+	echo y | bundle exec rake install && \
+	echo y | bundle exec rake install[oct2-orange] && \
+	git reset --hard
