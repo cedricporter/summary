@@ -8,8 +8,7 @@ categories:
 
 ## 图
 
-{% img /imgs/tt22_20131215_200637_4314kuV.png %}
-
+{% img /imgs/tt23_20131215_202029_4314x4b.png %}
 
 ## 数据
 
